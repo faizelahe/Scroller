@@ -1,0 +1,44 @@
+[
+    {
+        "imgURL": "https://images.squarespace-cdn.com/content/v1/598918dae3df28f92274ae74/1503888531117-Y3HCBJ88VRKZ2UAXRYI8/ke17ZwdGBToddI8pDm48kCMOzc4GiK3dsNqiUCo6wrh7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmLLxGPZs9cXJqW7PQ94qJw_PXe0-aBO9Nk8dpGJ5ZKQqQP0CxanRMUAlhQx1QfmRy/mount-everest-square.jpg",
+        "name": "Mount Everest",
+        "description": "Tallest mountain on Earth",
+        "location": "Nepal"
+    },
+    {
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/GreatBarrierReef-EO.JPG/220px-GreatBarrierReef-EO.JPG",
+        "name": "Great Barrier Reef",
+        "description": "Earth's largest coral reef system",
+        "location": "Australia"
+    },
+    {
+        "imgURL": "https://d2g6byanrj0o4m.cloudfront.net/images/3315/victoriafallsblog3__square.jpg",
+        "name": "Victoria Falls",
+        "description": "Largest waterfall on Earth",
+        "location": "Zimbabwe"
+    },
+    {
+        "imgURL": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/aurora-square-tor-ivar-naess.jpg",
+        "name": "Aurora Borealis",
+        "description": "A colorful display in the sky at night",
+        "location": "Alaska"
+    },
+    {
+        "imgURL": "https://render.fineartamerica.com/images/rendered/default/print/8/8/break/images-medium-5/1-grand-canyon-square-panorama-tanya-harrison.jpg",
+        "name": "Grand Canyon",
+        "description": "A beautiful canyon",
+        "location": "United States"
+    },
+    {
+        "imgURL": "http://2.bp.blogspot.com/-HIf3th1m8Kc/TfYnrD1Zg2I/AAAAAAAAAXA/KkXYOhCpKVc/s1600/3413300992_7c3d6eb0e7.jpg",
+        "name": "Parícutin Volcano",
+        "description": "Youngest volcano to form in the Northern Hemisphere",
+        "location": "Mexico"
+    },
+    {
+        "imgURL": "https://lh3.googleusercontent.com/proxy/KkkdOZmyV3AJft4bjQh_lz4Fk7oguulMhmrP3DAwGigFjvh9jll76V8stACDNszQU4WZEQfKEBFVNGk9Fsw50MqV9Hj6jy669iv0AdOp_f1UPGNN9d119CGP6w",
+        "name": "Harbour of Rio de Janeiro",
+        "description": "Earth's largest bay",
+        "location": "Brazil"
+    }
+]
